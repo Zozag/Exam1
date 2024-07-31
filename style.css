@@ -1,0 +1,53 @@
+.first{
+    text-align: center;
+    color: blue;
+    font-size:xx-large;
+    border: 3px solid red;
+    border-radius: 20px;
+}
+.sec{
+color: blue;
+background-color: yellow;
+}
+.fo{
+    color: red;
+}
+.fi{
+    font-size: x-large;
+    color: green;
+}
+.six{
+    text-align: center;
+    color: green;
+    background-color: yellow;
+}
+.seven{
+    color: green;
+}
+.e{
+    color: white;
+    background-color: blue;
+    width: 30%;
+    height: 45px;
+}
+table,th,td{
+    border: 2px solid grey;
+    width: 1200px;
+    border-collapse: collapse;
+}
+.no{
+    color: white;
+    background-color: green;
+}
+.yes{
+    color: white;
+    background-color:blue ;
+}
+.you{
+    color: white;
+    background-color: red;
+}
+.me{
+    color: white;
+    background-color: black;
+}
